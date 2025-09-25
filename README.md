@@ -1,6 +1,6 @@
 # 🤖✨ Projetos de Sistemas Embarcados com Arduino ✨🔌
 
-Este repositório armazena os projetos desenvolvidos durante os estudos da disciplina de **Sistemas Embarcados**, com foco no uso da **plataforma Arduino**.  
+Este repositório armazena os projetos e atividades desenvolvidos durante os estudos da disciplina de **Sistemas Embarcados**, com foco no uso da **plataforma Arduino**.  
 Todos os códigos foram escritos em **C/C++** e testados diretamente na **Arduino IDE**, utilizando o modelo de placa Arduino Uno.
 
 ---
@@ -16,7 +16,7 @@ Todos os códigos foram escritos em **C/C++** e testados diretamente na **Arduin
 
 ## 🚀 Tecnologias Utilizadas
 
-- 🔌 **Arduino UNO** → Plataforma principal de desenvolvimento embarcado  
+- 🔌 **Arduino UNO** → Modelo de placa 
 - 🖥️ **Arduino IDE** → Ambiente de desenvolvimento  
 - 🧠 **C/C++** → Linguagens utilizadas nos sketches  
 - 🐧 **Git/GitHub** → Para controle de versão e compartilhamento dos projetos  
